@@ -4,14 +4,14 @@ This repository contains implementations of various algorithms covered in the Ar
 
 The algorithms are categorized as follows:
 
-## 🔍 Uninformed (Blind) Search  
+## Uninformed (Blind) Search  
 - **Breadth-First Search (BFS)**  
 - **Depth-First Search (DFS)**  
 - **Depth-Limited Search (DLS)**  
 - **Iterative Deepening Search (IDS)**  
 - **Bidirectional Search**  
 
-## 🎯 Informed (Heuristic) Search  
+## Informed (Heuristic) Search  
 - **Greedy Best-First Search**  
 - **A* Search**  
 - **Recursive Best-First Search**  
